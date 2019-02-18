@@ -1,0 +1,6 @@
+projectKey=com.mkyong.common:SpringExample
+serverUrl=http://10.134.74.36:9000/sonar
+serverVersion=7.5.0.20543
+dashboardUrl=http://10.134.74.36:9000/sonar/dashboard?id=com.mkyong.common%3ASpringExample
+ceTaskId=AWfuvPh6t6Lek93ZynSW
+ceTaskUrl=http://10.134.74.36:9000/sonar/api/ce/task?id=AWfuvPh6t6Lek93ZynSW
